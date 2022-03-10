@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/funWithText.git/static/css/main.527a55f4.css",
+    "main.js": "/funWithText.git/static/js/main.590403df.js",
+    "static/js/787.1fb3cf03.chunk.js": "/funWithText.git/static/js/787.1fb3cf03.chunk.js",
+    "index.html": "/funWithText.git/index.html",
+    "main.527a55f4.css.map": "/funWithText.git/static/css/main.527a55f4.css.map",
+    "main.590403df.js.map": "/funWithText.git/static/js/main.590403df.js.map",
+    "787.1fb3cf03.chunk.js.map": "/funWithText.git/static/js/787.1fb3cf03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527a55f4.css",
+    "static/js/main.590403df.js"
+  ]
+}
